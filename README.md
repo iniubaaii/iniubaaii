@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm ubaidillah ali masyhur</h1>
 <h3 align="center">Pecinta berat UI/UX Designer</h3>
-<img align="righ" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1145170/screenshots/15468054/media/60b32ec863c598fb60cf50c51ecae76c.mp4">
+<img align="righ" alt="Coding" width="400" src="https://miro.medium.com/max/640/0*5oiuLeF3ZzHCLBCc.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidillah301201&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidillah301201" /> </p>
