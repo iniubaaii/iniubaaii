@@ -8,7 +8,7 @@
 
 - 👨‍🎓 I'm an undergraduate student Informatics Engineering 2021
 
-- 💢 dream after graduating from college **rebahan, makan, sholat harus pantang**
+- 💢 dream after graduating from college **sholat harus pantang**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/ubaidillah-ali-010761252/](https://www.linkedin.com/in/ubaidillah-ali-010761252/)
 
