@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/iniubaai" target="blank"><img src="https://img.shields.io/twitter/follow/iniubaai?logo=twitter&style=for-the-badge" alt="iniubaai" /></a> </p>
 
-- 👨‍🎓 I'm an Informatics Engineering 2021 student at the State Polytechnic Of Jember
+- 👨‍🎓 I'm an undergraduate student Informatics Engineering 2021
 
 - 💢 dream after graduating from college **rebahan, makan, sholat harus pantang**
 
